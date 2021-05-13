@@ -26,7 +26,7 @@ Widget custom_widget(var txt){
       appBar: AppBar(
         backgroundColor: Colors.deepPurpleAccent,
         title : Center(
-          child: Text("Name & Password",
+          child: Text("Name & Email",
            style: TextStyle(fontSize: 28,fontFamily: "cursive")),
        
           )
